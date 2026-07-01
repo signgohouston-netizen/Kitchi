@@ -12,7 +12,9 @@
       "Read(//Users/azeem/Downloads/**)",
       "Bash(python3 -c ' *)",
       "Bash(grep -q \"^data\" .gitignore)",
-      "Bash(printf '\\\\n# local prototype order storage\\\\ndata\\\\n')"
+      "Bash(printf '\\\\n# local prototype order storage\\\\ndata\\\\n')",
+      "Bash(ls -la \"C:/Users/User/Downloads/KitchiKitchi_Master_Blueprint.docx\" 2>/dev/null && echo \"EXISTS\" || echo \"NOT FOUND\")",
+      "Bash(python -c ' *)"
     ]
   }
 }
